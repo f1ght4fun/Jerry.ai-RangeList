@@ -1,0 +1,14 @@
+{
+    "presets": [
+      "node6",
+      "stage-0"
+    ],
+  
+    "env": {
+      "test": {
+        "presets":[
+          ["node6"],["stage-0"]
+        ]
+      }
+    }
+  }

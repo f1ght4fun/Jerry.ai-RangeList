@@ -1,0 +1,22 @@
+{
+  "name": "range.list.app",
+  "version": "1.0.0",
+  "license": "",
+  "scripts": {
+    "solution-1": " nodemon  -e js -x babel-node ./LinkedList.js",
+    "solution-2": " nodemon  -e js -x babel-node ./ArrayBinarySearch.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.2",
+    "babel-jest": "^23.0.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-node6": "^11.0.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "eslint": "^4.19.1",
+    "eslint-plugin-babel": "^5.0.0",
+    "eslint-plugin-import": "^2.10.0",
+    "nodemon": "1.17.2"
+  }
+}
